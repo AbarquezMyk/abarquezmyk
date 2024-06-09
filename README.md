@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I'm currently a student in Cebu Institute of Technology-University
+## I'm making this github to share my works
+## I'm a beginner so bear with me and please be patient with me
 
 <!--
 **AbarquezMyk/abarquezmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
