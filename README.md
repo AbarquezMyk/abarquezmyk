@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&&color=timeGradient&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=50" />
 
 # Welcome to My GitHub Repository
 
