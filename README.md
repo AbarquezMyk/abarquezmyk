@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=50" />
 
 # I'm Mykha Abarquez
 
