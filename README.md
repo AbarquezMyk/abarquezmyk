@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=40&fontColor=ffffff" />
 
 ```yaml
-* Mykha Abarquez *
+name: Mykha Abarquez
+located_in: Philippines
+hobbies: ["Gaming", "Bingewatching", "Reading"]
 ```
-
-# I'm Mykha Abarquez
-
 ## About Me
 I am a student at Cebu Institute of Technology-University, passionate about programming and eager to share my work with the community. I'm currently a student in Cebu Institute of Technology-University
 
