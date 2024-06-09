@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebiaslist.com%2F2023%2F11%2F09%2Fsong-review-aespa-drama%2F&psig=AOvVaw1xyC3yGcSEjXgDAWkXUi5U&ust=1718026873681000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjuov7SzoYDFQAAAAAdAAAAABAEtext=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 # Welcome to My GitHub Repository
 
