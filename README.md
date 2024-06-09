@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=50" />
 
+# I'm Mykha Abarquez
+
 ## About Me
 I am a student at Cebu Institute of Technology-University, passionate about programming and eager to share my work with the community. I'm currently a student in Cebu Institute of Technology-University
 
