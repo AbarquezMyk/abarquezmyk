@@ -6,8 +6,8 @@ located_in: Philippines
 hobbies: ["Gaming", "Bingewatching", "Reading"]
 about_me:
   [
-    I am a student at Cebu Institute of Technology-University, passionate about programming and eager to share my work with the community.
-    I'm currently a student in Cebu Institute of Technology-University
+    I am a student at Cebu Institute of Technology-University, passionate about programming and eager to share
+    my work with the community. I'm currently a student in Cebu Institute of Technology-University
   ]
 github_purpose:
   [
