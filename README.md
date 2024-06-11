@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub%20Repository&fontSize=40&fontColor=system" />
 
 ```yaml
 name: Mykha Abarquez
@@ -7,7 +7,7 @@ hobbies: ["Gaming", "Bingewatching", "Reading"]
 about_me:
   [
     I am a student at Cebu Institute of Technology-University, passionate about programming and eager to share
-    my work with the community. I'm currently a student in Cebu Institute of Technology-University
+    my work with the community.
   ]
 github_purpose:
   [
